@@ -17,3 +17,11 @@ inheritance calculation logic.
 
 ## Download English Version
 APK file available in this repository
+
+## Updated App Screenshots (English Version)
+
+![Home Screen](screenshot-1-home.jpeg)
+![Heirs Selection](screenshot-2-heirs.jpeg)
+![Results](screenshot-3-results.jpeg)
+![Estate Amount](screenshot-4-estate-amount.jpeg)
+![Estate Division](screenshot-5-estate-division.jpeg)
