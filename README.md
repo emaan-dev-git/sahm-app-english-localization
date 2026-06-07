@@ -23,3 +23,9 @@ APK file available in this repository
 | Home Screen | Heirs Selection | Results |
 |-------------|----------------|---------|
 | ![Home](screenshot-1-home.jpeg) | ![Heirs](screenshot-2-heirs.jpeg) | ![Results](screenshot-3-results.jpeg) |
+
+## Original App Screenshots (Arabic Version)
+
+| Home Screen | Heirs Selection | Results |
+|-------------|----------------|---------|
+| ![Home](original-1-home.jpeg) | ![Heirs](original-2-heirs.jpeg) | ![Results](original-3-results.jpeg) |
