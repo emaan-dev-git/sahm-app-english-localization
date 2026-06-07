@@ -23,7 +23,3 @@ APK file available in this repository
 | Home Screen | Heirs Selection | Results |
 |-------------|----------------|---------|
 | ![Home](screenshot-1-home.jpeg) | ![Heirs](screenshot-2-heirs.jpeg) | ![Results](screenshot-3-results.jpeg) |
-
-| Estate Amount | Estate Division |
-|---------------|-----------------|
-| ![Estate](screenshot-4-estate-amount.jpeg) | ![Division](screenshot-5-estate-division.jpeg) |
